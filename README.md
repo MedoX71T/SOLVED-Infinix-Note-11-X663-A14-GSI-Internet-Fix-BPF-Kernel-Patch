@@ -1,4 +1,4 @@
-This repository provides a critical solution for the **Infinix Note 11 (X663)** device when running GSI (Generic System Image) builds, specifically addressing the issue of **Mobile Data not working** on **Android 14 and higher**.
+This repository provides a critical solution for the **Infinix Note 11 (X663)** device when running GSI (Generic System Image) builds, specifically addressing the issue of **WiFi - Mobile Data not working** on **Android 14 and higher**.
 
 <img width="200" height="600" alt="Screenshot_20251102-023351_Settings" src="https://github.com/user-attachments/assets/fa5b286d-1790-4685-8036-e446324555ef" align="center" />
 <img width="200" height="600" alt="Screenshot_20251102-023651_Google Play Store" src="https://github.com/user-attachments/assets/5fa98994-5d56-4e1d-8f07-433338196a1b" align="center" />
