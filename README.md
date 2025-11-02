@@ -30,7 +30,7 @@ When flashing any modern GSI (e.g., AOSP A15 or DerpFest A16) on the Infinix Not
 
 ## **The Solution**
 
-1. First try this command
+1. First try this command (if it's not working look at method 2.)
 ```
 adb shell settings put global restricted_networking_mode 0
 ```
