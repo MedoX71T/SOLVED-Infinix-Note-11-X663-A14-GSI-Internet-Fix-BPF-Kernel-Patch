@@ -5,10 +5,8 @@ This repository provides a critical solution for the **Infinix Note 11 (X663)** 
 <img width="200" height="600" alt="Screenshot_20251102-035929_DerpLauncher" src="https://github.com/user-attachments/assets/190e484b-a664-4c59-8847-21a233a5a1af" align="center" />
 <img width="200" height="600" alt="Screenshot_20251102-040013_Settings" src="https://github.com/user-attachments/assets/c5201e62-7547-4cde-94e7-99754a436f33" align="center" />
 
-
-
-
-
+<br>
+<br>
 This fix involves applying the BPF Kernel Patcher to the stock boot image to ensure network connectivity on custom ROMs.
 
 ---
